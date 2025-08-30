@@ -187,17 +187,6 @@ const getProductDetails = async (productId) => {
 }
 ```
 
-## 🆚 **Google Shopping API vs Product Search API**
-
-| Feature | Google Shopping API | Product Search API | ✅ Advantage |
-|---------|-------------------|-------------------|-------------|
-| **Setup Complexity** | OAuth 2.0, Merchant Center | Simple API key | 🚀 **5x Faster** |
-| **Vendor Coverage** | Google Shopping only | 40+ marketplaces | 🌐 **40x More Sources** |
-| **Pricing** | $0.20+ per 1000 requests | $0.02+ per 1000 requests | 💰 **90% Cheaper** |
-| **Rate Limits** | Strict quotas | Generous limits | ⚡ **Higher Throughput** |
-| **Documentation** | Complex, scattered | Clear, unified | 📚 **Better DX** |
-| **Support** | Limited community | Dedicated support | 🛟 **Better Support** |
-
 ## 🏗️ **Tech Stack & Architecture**
 
 ### 🛠️ **Frontend Technologies**
@@ -303,11 +292,8 @@ CMD ["npm", "start"]
 
 ### ❓ **Common Questions**
 
-**Q: How does this compare to Google Shopping API?**
-A: Our API offers broader marketplace coverage (40+ vs 1), simpler integration, and significantly lower costs while maintaining high data quality.
-
 **Q: What's included in the free tier?**
-A: Free tier includes 1000 monthly requests - perfect for testing and small projects.
+A: Free tier includes 10 monthly requests - perfect for testing and small projects.
 
 **Q: Can I use this for commercial projects?**
 A: Yes! The API is designed for commercial use with various pricing tiers to match your needs.
@@ -460,27 +446,6 @@ bun dev
 ```
 
 Your app will be running at `http://localhost:3000`
-
-## AI Coding Assistant Instructions
-
-This boilerplate is **optimized for AI coding assistants** like GitHub Copilot and Cursor. All comprehensive instructions are located in:
-
-**`.github/instructions/global.instructions.md`**
-
-These instructions include:
-
-- **Next.js 14 App Router** - File-based routing and layout patterns
-- **Server vs Client Components** - When and how to use each type
-- **Modern Design Guidelines** - Create premium, contemporary interfaces
-- **Architecture Patterns** - Project structure and best practices
-- **Component Usage** - How to use shadcn/ui components effectively
-- **Development Workflow** - Adding features, pages, and API routes
-- **Styling System** - Color palettes, spacing, typography, and animations
-- **Responsive Design** - Mobile-first development principles
-
-### For AI Assistants (Copilot/Cursor users):
-
-Simply reference the instructions file when working on this project. The AI will understand the project structure, styling guidelines, and development patterns automatically.
 
 ## Project Structure
 
