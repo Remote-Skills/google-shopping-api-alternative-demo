@@ -5,11 +5,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**🚀 The complete solution for developers seeking a powerful Google Shopping API alternative!**
+** The complete solution for developers seeking a powerful Google Shopping API alternative!**
 
 This comprehensive demo showcases how to integrate the **Product Search API** - a robust, cost-effective alternative to Google Shopping API that searches across **40+ major marketplaces** and e-commerce platforms in real-time.
 
-## 🔍 Why Choose This Google Shopping API Alternative?
+## Why Choose This Google Shopping API Alternative?
 
 ### ✅ **Google Shopping API Limitations Solved:**
 - ❌ **Google Shopping API**: Expensive, complex authentication, limited vendor coverage
@@ -23,7 +23,7 @@ This comprehensive demo showcases how to integrate the **Product Search API** - 
 - 📱 **Country Support**: US, Canada, France, Germany, UK, Australia, Japan
 - 🛡️ **Reliable**: 99.9% uptime SLA
 
-## 🎯 Perfect For Developers Building:
+## Perfect For Developers Building:
 
 - 🛒 **E-commerce Price Comparison Tools**
 - 📊 **Market Research Applications** 
@@ -44,7 +44,7 @@ This comprehensive demo showcases how to integrate the **Product Search API** - 
 
 ## Quick Start Guide
 
-### 1️**Get Your API Key**
+### **Get Your API Key**
 ```bash
 🔗 Sign up: https://rapidapi.com/remote-skills-remote-skills-default/api/product-search-api
 💳 Choose your plan (Free tier available!)
@@ -77,7 +77,7 @@ npm run dev
 # Open http://localhost:3000
 ```
 
-**🎉 You're ready! Start searching across 40+ marketplaces instantly!**
+**🎉You're ready! Start searching across 40+ marketplaces instantly!**
 
 ## 🔌 API Integration Guide
 
