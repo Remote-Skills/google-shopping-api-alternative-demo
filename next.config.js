@@ -52,10 +52,6 @@ const nextConfig = {
       },
     ],
   },
-  // Enable experimental features for better performance
-  experimental: {
-    optimizeCss: true,
-  },
   // Enable compression
   compress: true,
   // Optimize images
